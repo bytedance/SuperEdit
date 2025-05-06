@@ -1,0 +1,722 @@
+{
+    "10.jpeg": [
+        "1. Local: Change the clothes of the person on the right to red.",
+        "2. Remove: Remove the basket from the boat.",
+        "3. Add: Add a white swan swimming next to the boat.",
+        "4. Texture: Change the water surface to look frozen, as if it's covered with ice.",
+        "5. Background: Change the background to a cityscape with tall buildings.",
+        "6. Global: Transform the entire scene to a winter setting with snow covering the houses, trees, and boat.",
+        "7. Style: Convert the image to resemble a vintage sepia photograph."
+    ],
+    "11.jpeg": [
+        "1. Local: Change the dog's relaxed ears to be standing upright.",
+        "2. Remove: Erase the leaves on the ground from the image.",
+        "3. Add: Insert a red collar around the dog's neck.",
+        "4. Texture: Change the texture of the dog's fur to appear smooth and short instead of long and fluffy.",
+        "5. Background: Replace the forest path background with a beach setting.",
+        "6. Global: Transform the scene from autumn to a snowy winter wonderland.",
+        "7. Style: Apply a watercolor painting style to the entire image."
+    ],
+    "12.jpeg": [
+        "1. Local: Change the goat into a puppy the boy is holding.",
+        "2. Remove: Erase the trees behind the boy.",
+        "3. Add: Put a blue shirt on the boy.",
+        "4. Texture: Change the texture of the boy's trousers to be made of denim.",
+        "5. Background: Replace the forest background with a beach scene.",
+        "6. Global: Transform the image to appear as if it is in the winter season.",
+        "7. Style: Convert the image into a watercolor painting style."
+    ],
+    "13.jpeg": [
+        "1. Local: Replace the palm plant in front of the door with a Christmas tree.",
+        "2. Remove: Remove all objects in front of the house, including the table and plants.",
+        "3. Add: Insert a vintage bicycle leaning against the wall near the entrance of the \"Le Calendula\".",
+        "4. Texture: Change the blue shutters to a rustic wooden texture.",
+        "5. Background: Alter the sky to show a sunset with vibrant colors.",
+        "6. Global: Transform the entire scene to appear as if it is covered in snow, giving a wintery look.",
+        "7. Style: Change the overall appearance of the image to resemble an old sepia photograph."
+    ],
+    "14.jpeg": [
+        "1. Local: Replace the wooden house with a modern glass cabin, while keeping its size and placement intact.",
+        "2. Remove: Erase all the wildflowers in the foreground of the image.",
+        "3. Add: Insert a windmill near the barn structure to the right of the house.",
+        "4. Texture: Change the texture of the wooden walls to brick while keeping the house structure the same.",
+        "5. Background: Replace the cloudy overcast sky with a clear, blue sky with a few scattered white clouds.",
+        "6. Global: Transform the landscape to depict a lush, green summer scene with vibrant greenery everywhere.",
+        "7. Style: Change the entire image to mimic a vintage sepia postcard photo."
+    ],
+    "15.jpeg": [
+        "1. Local: Replace the yellow sports car with a red classic convertible.",
+        "2. Remove: Remove the power lines and towers from the background.",
+        "3. Add: Add a group of bicyclists riding on the road alongside the car.",
+        "4. Texture: Change the car's paint to a matte black finish.",
+        "5. Background: Replace the desert background with a bustling cityscape.",
+        "6. Global: Transform the image to depict a snowy winter scene.",
+        "7. Style: Apply a vintage sepia filter to the entire image."
+    ],
+    "16.jpeg": [
+        "1. Local: Change the yellow taxi at the forefront to a red sports car.",
+        "2. Remove: Erase all the cars on the street from the image.",
+        "3. Add: Insert several students crossing the crosswalk.",
+        "4. Texture: Change the texture of the road to cobblestone while keeping the structure of the road intact.",
+        "5. Background: Change the background to show a mountainous landscape instead of the urban buildings. ",
+        "6. Global: Transform the entire image to depict a bright sunny summer day with blue skies.",
+        "7. Style: Apply a vintage sepia tone to the entire image to give it an old-timey feel."
+    ],
+    "17.jpeg": [
+        "1. Local: Replace the cat's eyes with blue ones.",
+        "2. Remove: Erase the green grass in the image.",
+        "3. Add: Insert a small, colorful butterfly hovering above the cat's head.",
+        "4. Texture: Change the cat's fur to have a shiny, metallic silver texture.",
+        "5. Background: Replace the background with a beach setting.",
+        "6. Global: Apply a winter filter to the entire image, adding snow and a cooler color tone.",
+        "7. Style: Change the image to look like a watercolor painting."
+    ],
+    "18.jpeg": [
+        "1. Local: Replace the logo on the boy's t-shirt with a Superman logo.",
+        "2. Remove: Erase the boy from the image, leaving only the girl standing.",
+        "3. Add: Insert a blue balloon being held by the girl.",
+        "4. Texture: Change the girl's floral jumpsuit to a velvet texture.",
+        "5. Background: Replace the sunset background with a beach scene.",
+        "6. Global: Transform the image to depict a winter scene, with the children dressed in winter clothing.",
+        "7. Style: Convert the image to a black-and-white, vintage style photograph."
+    ],
+    "19.jpeg": [
+        "1. Local: Replace all the street lights with vintage lanterns.",
+        "2. Remove: Erase all the parked cars from the street.",
+        "3. Add: Insert a fountain in the middle of the street.",
+        "4. Texture: Change the texture of the buildings' facades to a brick finish.",
+        "5. Background: Change the background to a snowy winter scene.",
+        "6. Global: Adjust the lighting to make it look like daytime.",
+        "7. Style: Transform the image into an impressionist painting style."
+    ],
+    "2.jpeg": [
+        "1. Local: Replace the headscarf with a wide-brimmed straw hat.",
+        "2. Remove: Remove the basket on her back.",
+        "3. Add: Add a pair of glasses to the woman in the image.",
+        "4. Texture: Change the texture of her top to a floral pattern.",
+        "5. Background: Change the background to a snowy forest.",
+        "6. Global: Edit the image to depict an autumn setting with falling leaves.",
+        "7. Style: Transform the image into a watercolor painting style."
+    ],
+    "20.jpeg": [
+        "1. Local: Replace the corgi with a Border Collie, maintaining its joyful expression.",
+        "2. Remove: Erase the train from the background.",
+        "3. Add: Add a red balloon tied to the dog.",
+        "4. Texture: Alter the dog's coat to a tiger stripe pattern.",
+        "5. Background: Change the background to a beach scene.",
+        "6. Global: Transform the image into a sunset setting.",
+        "7. Style: Change the image style to look like a watercolor painting."
+    ],
+    "21.jpeg": [
+        "1. Local: Replace the path on the left with a small stream.",
+        "2. Remove: Erase the tallest building in the background.",
+        "3. Add: Add a driving car on the road on the left.",
+        "4. Texture: Change the texture of all the houses to a metallic texture.",
+        "5. Background: Change the background to a beach scene.",
+        "6. Global: Transform the image to a snowy scene with snowflakes falling in the sky.",
+        "7. Style: Convert the image to an ink painting style."
+    ],
+    "22.jpeg": [
+        "1. Local: Add scattered leaves on the snowy ground.",
+        "2. Remove: Erase the snow from the path.",
+        "3. Add: Insert a wooden bench along the path.",
+        "4. Texture: Paint the trees with a colorful graffiti pattern.",
+        "5. Background: Change the background to a beach scenery with palm trees.",
+        "6. Global: Transform the image to a summer scene with green foliage and a clear sky.",
+        "7. Style: Change the style of the image to resemble an impressionist painting."
+    ],
+    "23.jpeg": [
+        "1. Local: Replace the dog's collar with a red bandana around its neck.",
+        "2. Remove: Remove the collar from the dog's neck.",
+        "3. Add: Add a pair of black sunglasses to the dog.",
+        "4. Texture: Change the dog's fur texture to resemble that of a Dalmatian, with black spots.",
+        "5. Background: Change the background to a beach scene.",
+        "6. Global: Edit the image to make it look like a snowy winter scene.",
+        "7. Style: Transform the image into a charcoal sketch style."
+    ],
+    "24.jpeg": [
+        "1. Local: Change the yellow ball to a red frisbee the bulldog is holding with its front paw.",
+        "2. Remove: Erase the yellow ball and place the dog's front paw on the ground.",
+        "3. Add: Insert a blue butterfly resting on the bulldog's nose.",
+        "4. Texture: Give the grass a frosty, icy look as if it's covered in frost.",
+        "5. Background: Change the background to a sandy beach with the ocean in the distance.",
+        "6. Global: Transform the season to winter, showing light snow covering the ground and the bulldog's back.",
+        "7. Style: Convert the image into a watercolor painting style with soft brush strokes and pastel colors."
+    ],
+    "25.jpeg": [
+        "1. Local: Change the kitten's eyes to brown.",
+        "2. Remove: Erase the kitten from the image.",
+        "3. Add: Insert a small red bow on the kitten's chest.",
+        "4. Texture: Change the kitten's fur to a tiger stripe pattern.",
+        "5. Background: Alter the background to show a snowy winter scene.",
+        "6. Global: Transform the entire image to depict a summer beach environment.",
+        "7. Style: Change the image style to a watercolor painting."
+    ],
+    "26.jpeg": [
+        "1. Local: Change the little girl's pink shirt to a yellow one.",
+        "2. Remove: Erase the clouds from the sky.",
+        "3. Add: Insert some sailboats on the surface of the sea.",
+        "4. Texture: Paint over the water to give it a more crystal-clear appearance.",
+        "5. Background: Change the beach scene to a snowy landscape with ice and snow-covered ground.",
+        "6. Global: Transform the scene to look like it is nighttime with a starry sky above.",
+        "7. Style: Convert the entire image to a vintage sepia-toned style."
+    ],
+    "27.jpeg": [
+        "1. Local: Change all the yellow flowers to purple.",
+        "2. Remove: Erase the single small white flower from the image.",
+        "3. Add: Insert a colorful butterfly sitting on one of the yellow flowers.",
+        "4. Texture: Make the yellow flowers appear as though they are covered in tiny dew droplets.",
+        "5. Background: Change the background to a snowy landscape.",
+        "6. Global: Adjust the image to depict an autumn setting, with the flowers and surroundings showing autumn colors.",
+        "7. Style: Transform the entire image to appear as if it is a watercolor painting."
+    ],
+    "28.jpeg": [
+        "1. Local: Replace the boy's white clothes with a black suit.",
+        "2. Remove: Erase the black glasses the boy is wearing.",
+        "3. Add: Add a pink tie around the boy's neck.",
+        "4. Texture: Change the texture of the glasses to look like gold.",
+        "5. Background: Change the background to a busy street scene.",
+        "6. Global: Transform the entire scene of the image to depict the boy in the rain.",
+        "7. Style: Convert the image to a sketch-style."
+    ],
+    "29.jpeg": [
+        "1. Local: Substitute the white dress with a vibrant red dress.",
+        "2. Remove: Remove the woman from the image.",
+        "3. Add: Add a sandcastle near the water's edge.",
+        "4. Texture: Change the texture of the ocean to look like liquid gold while keeping its structure.",
+        "5. Background: Replace the ocean background with a lush green forest.",
+        "6. Global: Transform the image to depict a snowy winter scene, freezing the water and adding snow to the beach.",
+        "7. Style: Change the image style to look like a watercolor painting."
+    ],
+    "3.jpeg": [
+        "1. Local: Replace the gray and white cat with an orange tabby cat.",
+        "2. Remove: Remove the gray and white cat.",
+        "3. Add: Add a witch's hat on top of the cat's head.",
+        "4. Texture: Change the cat's fur texture to look more fluffy and soft.",
+        "5. Background: Change the background to a cozy living room with a fireplace.",
+        "6. Global: Transform the scene to a snowy winter setting.",
+        "7. Style: Change the image style to look like a vintage photograph."
+    ],
+    "30.jpeg": [
+        "1. Local: Replace the toy truck with a teddy bear wearing a yellow dress.",
+        "2. Remove: Remove the blue hair clip from the girl's hair.",
+        "3. Add: Add a toy car on the left side of the girl, similar to the one on the right side.",
+        "4. Texture: Change the child's dress texture to a floral pattern.",
+        "5. Background: Change the scene's background to a beach setting.",
+        "6. Global: Transform the scene to appear as if it is winter with snow on the ground and trees.",
+        "7. Style: Change the image to have a watercolor painting style."
+    ],
+    "31.jpeg": [
+        "1. Local: Replace the fake mustache and eyebrows with a realistic, well-groomed mustache and eyebrows.",
+        "2. Remove: Erase the fake mustache and fake eyebrows from the face.",
+        "3. Add: Insert a pink butterfly on the hair.",
+        "4. Texture: Change the texture of the grass to a sandy beach.",
+        "5. Background: Replace the grassy background with a vibrant autumn forest.",
+        "6. Global: Transform the image to a winter scene with the person wearing winter clothes and snow everywhere.",
+        "7. Style: Change the image style to a vintage sepia tone photograph."
+    ],
+    "32.jpeg": [
+        "1. Local: Change the rider's helmet to a colorful cowboy hat.",
+        "2. Remove: Erase the scarf worn by the rider.",
+        "3. Add: Add a saddlebag to the horse.",
+        "4. Texture: Change the horse's coat to a dappled gray texture.",
+        "5. Background: Replace the beach background with a snowy winter landscape.",
+        "6. Global: Make the entire scene appear as if it's happening during a sunset.",
+        "7. Style: Transform the image into a black and white vintage photograph."
+    ],
+    "33.jpeg": [
+        "1. Local: Replace the rider's helmet with a wide-brimmed hat.",
+        "2. Remove: Erase the wooden fence in the background.",
+        "3. Add: Insert a small dog running alongside the horse.",
+        "4. Texture: Make the horse's coat look like a zebra's stripes pattern.",
+        "5. Background: Change the mountainous background to a beach scene with palm trees.",
+        "6. Global: Transform the image to depict a sunset, with warm orange and pink tones across the sky and reflecting on the horse and rider.",
+        "7. Style: Change the image style to look like an impressionist painting."
+    ],
+    "34.jpeg": [
+        "1. Local: Replace the horse's mane on its head with a large red flower.",
+        "2. Remove: Erase the harness from the horse's face.",
+        "3. Add: Add a butterfly on the horse's nose.",
+        "4. Texture: Change the horse's fur color to black while maintaining its shape and structure.",
+        "5. Background: Replace the countryside background with a beach scene.",
+        "6. Global: Transform the image to depict a snowy winter scene.",
+        "7. Style: Change the image style to look like a watercolor painting."
+    ],
+    "35.jpeg": [
+        "1. Local: Change the hot air balloon to a giant UFO.",
+        "2. Remove: Remove the hot air balloon.",
+        "3. Add: Add a flock of birds flying around the hot air balloon.",
+        "4. Texture: Change the texture of the hot air balloon to a metallic surface.",
+        "5. Background: Change the background to a snowy mountain landscape.",
+        "6. Global: Edit the image to depict a night-time scene with a starry sky.",
+        "7. Style: Change the style of the image to resemble a watercolor painting."
+    ],
+    "36.jpeg": [
+        "1. Local: Change the largest hot air balloon's color to bright pink.",
+        "2. Remove: Remove the largest hot air balloon.",
+        "3. Add: Add a flock of birds flying in the distant sky.",
+        "4. Texture: Apply a metallic texture to the hot air balloons, giving them a shiny, reflective surface.",
+        "5. Background: Replace the background with a snowy mountain landscape.",
+        "6. Global: Transform the entire scene to appear as if it is nighttime, with the sky filled with stars.",
+        "7. Style: Convert the image to a watercolor painting style."
+    ],
+    "37.jpeg": [
+        "1. Local: Replace the grassy field with a sandy terrain.",
+        "2. Remove: Erase the small pathway in the foreground.",
+        "3. Add: Insert a small wooden cabin in the middle of the clearing.",
+        "4. Texture: Change the grass texture to make it look snow-covered.",
+        "5. Background: Change the background to show a beach scene with an ocean.",
+        "6. Global: Transform the scene, so it looks like it's in the autumn season, with orange and red foliage.",
+        "7. Style: Alter the image to give it a watercolor painting effect."
+    ],
+    "38.jpeg": [
+        "1. Local: Replace the palm tree on the right side with a giant red beach umbrella.",
+        "2. Remove: Erase all the palm trees on the right side.",
+        "3. Add: Insert a beach umbrella and a lounge chair near the shoreline.",
+        "4. Texture: Change the color of the water to a deeper shade of blue.",
+        "5. Background: Replace the background with a mountainous landscape.",
+        "6. Global: Transform the scene from a sunny day to a clear night with a starry sky.",
+        "7. Style: Change the image style to a vibrant watercolor painting."
+    ],
+    "39.jpeg": [
+        "1. Local: Change the cat's expression to make it smile.",
+        "2. Remove: Remove the tail of the cat.",
+        "3. Add: Add a blue butterfly resting on the dog's back.",
+        "4. Texture: Change the fur of the dog to have a smooth, shiny texture as if freshly groomed.",
+        "5. Background: Change the background to a beach setting with the ocean and palm trees behind.",
+        "6. Global: Transform the scene to appear as if it's during the snowfall season, adding snow on the ground and falling from the sky.",
+        "7. Style: Convert the entire image to a watercolor painting style."
+    ],
+    "4.jpeg": [
+        "1. Local: Replace the road in the middle with a grassy lawn.",
+        "2. Remove: Remove all the trees on both sides.",
+        "3. Add: Insert a wooden bench along the path on the right side.",
+        "4. Texture: Change the texture of the tree trunks to a smooth, polished wood finish.",
+        "5. Background: Change the background to a snowy winter scene.",
+        "6. Global: Transform the image to a nighttime setting with a starry sky visible through the trees.",
+        "7. Style: Change the image to resemble an impressionist painting."
+    ],
+    "40.jpeg": [
+        "1. Local: Replace the bear with a large deer.",
+        "2. Remove: Remove the bear from the image.",
+        "3. Add: Add a red scarf around the bear's neck.",
+        "4. Texture: Change the bear's fur texture to appear as if it's covered in snow.",
+        "5. Background: Change the background to a snowy mountain scene.",
+        "6. Global: Change the image to a summer scene, with greener foliage and brighter colors.",
+        "7. Style: Change the image to a watercolor painting style."
+    ],
+    "41.jpeg": [
+        "1. Local: Substitute the yellow toy in the dog's mouth with a frisbee.",
+        "2. Remove: Remove the dog's tail from the image.",
+        "3. Add: Add a blue bandana around the dog's neck.",
+        "4. Texture: Change the dog's fur color to black.",
+        "5. Background: Change the background to a snowy landscape.",
+        "6. Global: Transform the image to show the scene during sunset.",
+        "7. Style: Change the image to resemble a watercolor painting."
+    ],
+    "42.jpeg": [
+        "1. Local: Replace the tree in the foreground with a large cherry blossom tree in full bloom.",
+        "2. Remove: Erase the large tree in the foreground from the image.",
+        "3. Add: Insert a wooden bench under the shade of the tree in the foreground.",
+        "4. Texture: Paint the grass with autumn colors, making it appear as fallen leaves.",
+        "5. Background: Change the background to show snowy mountains with a clear blue sky.",
+        "6. Global: Transform the entire scene to depict a winter setting, with snow covering the ground and tree branches.",
+        "7. Style: Change the style of the image to look like a vintage postcard, with muted colors and a nostalgic feel."
+    ],
+    "43.jpeg": [
+        "1. Local: Replace the golden retriever with a German shepherd.",
+        "2. Remove: Erase the kitten from the image.",
+        "3. Add: Insert a red ball next to the golden retriever.",
+        "4. Texture: Change the golden retriever's fur to a zebra print pattern.",
+        "5. Background: Change the grassy park background to a beach setting.",
+        "6. Global: Transform the image to appear as if it were taken during winter, with snow covering the ground and trees.",
+        "7. Style: Turn the image into a classic oil painting style."
+    ],
+    "44.jpeg": [
+        "1. Local: Replace the horse with a unicorn, keeping the same posture and orientation.",
+        "2. Remove: Erase the trees in the background, leaving only the grassy field and sky.",
+        "3. Add: Add a rider on the horse, holding the reins.",
+        "4. Texture: Change the color of the horse's mane and tail to a rainbow pattern.",
+        "5. Background: Replace the forest background with a beach scene, including the ocean and sandy shoreline.",
+        "6. Global: Transform the image to depict a snowy winter scene, with snow covering the ground and the horse.",
+        "7. Style: Change the overall image style to resemble a watercolor painting."
+    ],
+    "45.jpeg": [
+        "1. Local: Replace one of the skyscrapers with a futuristic glass tower.",
+        "2. Remove: Erase the two tallest buildings in the image.",
+        "3. Add: Insert a sightseeing helicopter in the sky at night.",
+        "4. Texture: Alter the texture of the Petronas Twin Towers to give them a gold finish.",
+        "5. Background: Change the background from night to a bright sunrise.",
+        "6. Global: Transform the scene to a winter setting with snow-covered streets and buildings.",
+        "7. Style: Change the image to a watercolor painting style."
+    ],
+    "46.jpeg": [
+        "1. Local: Replace the boat nearest to the left side of the image with a canoe.",
+        "2. Remove: Erase the boat on the far right side of the image.",
+        "3. Add: Add a fisherman on the boat on the far right side.",
+        "4. Texture: Change the green paint on the center-left boat to a shiny gold color.",
+        "5. Background: Change the background to a snowy winter landscape.",
+        "6. Global: Transform the entire scene to a vibrant sunset on a tropical beach.",
+        "7. Style: Convert the image to look like a watercolor painting."
+    ],
+    "47.jpeg": [
+        "1. Local: Replace the lighthouse with a tall, palm tree.",
+        "2. Remove: Remove the large rock in the foreground to create a clear grassy area.",
+        "3. Add: Add a sailboat on the water near the horizon.",
+        "4. Texture: Change the lighthouse's surface to make it look like it's made of gleaming, polished metal.",
+        "5. Background: Change the background to show a mountainous landscape instead of the ocean.",
+        "6. Global: Change the entire scene to a winter setting with snow covering the ground and the lighthouse.",
+        "7. Style: Transform the image to look like an impressionist painting."
+    ],
+    "48.jpeg": [
+        "1. Local: Replace the skier's red jacket with a blue one.",
+        "2. Remove: Erase the ski poles from the skier's hands.",
+        "3. Add: Add a yellow backpack on the skier's back.",
+        "4. Texture: Change the texture of the skier's pants to a camouflage pattern.",
+        "5. Background:  Change the background to a mountain landscape with visible peaks in the distance.",
+        "6. Global: Transform the scene to a nighttime setting with a starry sky and illuminated slopes.",
+        "7. Style: Convert the image to a watercolor painting style."
+    ],
+    "49.jpeg": [
+        "1. Local: Replace the smaller rock formation on the right with a giant tree.",
+        "2. Remove: Erase the dirt road entirely from the foreground.",
+        "3. Add: Insert a group of wild horses grazing in the middle ground.",
+        "4. Texture: Change the texture of the rock formations so they appear covered in lush green moss.",
+        "5. Background: Change the cloudy sky to a vibrant sunset with colorful skies.",
+        "6. Global: Transform the scene to resemble a winter landscape with snow covering the ground and rock formations.",
+        "7. Style: Convert the image to resemble a watercolor painting."
+    ],
+    "5.jpeg": [
+        "1. Local: Replace the teddy bear with a puppy.",
+        "2. Remove: Remove the brown teddy bear toy from the wooden bridge.",
+        "3. Add: Add a kite flying in the sky.",
+        "4. Texture: Make the child's shirt a vibrant, multi-colored tie-dye pattern.",
+        "5. Background: Change the background to a sandy beach with ocean waves.",
+        "6. Global: Transform the scene to a sunny summer day.",
+        "7. Style: Convert the entire image into a watercolor painting style."
+    ],
+    "50.jpeg": [
+        "1. Local: Change the baby monkey's face to display a smile.",
+        "2. Remove: Erase the main branch behind the monkeys.",
+        "3. Add: Add a bright red bird perched on the mother monkey's shoulder.",
+        "4. Texture: Apply a golden fur texture to the monkeys.",
+        "5. Background: Replace the forest background with a beach setting.",
+        "6. Global: Transform the image to a winter setting with snow on the ground and the monkeys.",
+        "7. Style: Convert the entire image into a watercolor painting style."
+    ],
+    "51.jpeg": [
+        "1. Local: Substituting the guitar with a violin in the musician's hands.",
+        "2. Remove: Erase the bag next to the musician.",
+        "3. Add: Insert a hat with money in front of the musician as if collecting donations.",
+        "4. Texture: Change the musician's coat to be made of velvet.",
+        "5. Background: Replace the city scene with a lively park with green trees and a fountain.",
+        "6. Global: Transform the scene to depict a snowy winter day.",
+        "7. Style: Change the image style to resemble a watercolor painting."
+    ],
+    "52.jpeg": [
+        "1. Local: Substituting the tiger with a large, friendly-looking panda sitting in the same position.",
+        "2. Remove: Erase the woman from the image, leaving only the natural surroundings and the tiger.",
+        "3. Add: Insert a large, colorful bird, such as a parrot, perched on the rocks next to the tiger.",
+        "4. Texture: Change the texture of the tiger's fur to appear as though it is made of a mosaic of vibrant, multi-colored pieces.",
+        "5. Background: Replace the forested background with a bustling urban cityscape.",
+        "6. Global: Adjust the setting to make it look like winter, with snow covering the ground and rocks.",
+        "7. Style: Transform the image into a surreal, dream-like painting."
+    ],
+    "53.jpeg": [
+        "1. Local: Replace the pink flowers with purple ones.",
+        "2. Remove: Erase the flowers from the branch, leaving only the buds and the branch.",
+        "3. Add: Insert a monarch butterfly resting on one of the flowers.",
+        "4. Texture: Change the texture of the petals to look like velvet.",
+        "5. Background: Change the background to a clear blue sky.",
+        "6. Global: Adjust the overall light and colors to give the image a warm sunset glow.",
+        "7. Style: Transform the image into a watercolor painting style."
+    ],
+    "54.jpeg": [
+        "1. Local: Change the black beanie on the woman to a bright red one.",
+        "2. Remove: Erase the sign that says \"Fresh Cut Flowers Inside\" from the window.",
+        "3. Add: Insert a black backpack on the man's back.",
+        "4. Texture: Alter the coat's material to look like a soft, fluffy texture.",
+        "5. Background: Change the background to a sunny beach scene.",
+        "6. Global: Transform the image to depict a warm autumn evening instead of a snowy night.",
+        "7. Style: Convert the image into a watercolor painting style."
+    ],
+    "55.jpeg": [
+        "1. Local: Replace the red panda with a koala holding the same pose.",
+        "2. Remove: Remove the tree branches around the red panda.",
+        "3. Add: Add a vibrant blue butterfly resting on the red panda's nose.",
+        "4. Texture: Change the red panda's fur to a sleek metallic gold color.",
+        "5. Background: Replace the forest background with a tropical beach scene.",
+        "6. Global: Transform the image to look like it was taken during winter with snow covering the surroundings and the red panda's fur frosted.",
+        "7. Style: Change the entire image to resemble a watercolor painting."
+    ],
+    "56.jpeg": [
+        "1. Local Edit: Change the bird's eyes to red.",
+        "2. Remove Edit: Erase the bird's pointed beak.",
+        "3. Add Edit: Insert a small cloud near the bird.",
+        "4. Texture Edit: Alter the bird's feathers to a smooth, metallic texture.",
+        "5. Background Edit: Change the background to a sunset sky with hues of orange and pink.",
+        "6. Global Edit: Transform the scene to depict a winter setting, with snowflakes and the bird's breath visible.",
+        "7. Style Edit: Change the style of the image to a vintage sepia tone."
+    ],
+    "57.jpeg": [
+        "1. Local: Replace the car with a motorcycle.",
+        "2. Remove: Erase the clouds from the sky.",
+        "3. Add: Insert a cyclist on the side of the road.",
+        "4. Texture: Change the texture of the road to cobblestone.",
+        "5. Background: Change the background to a coastal scene with the ocean visible in the distance.",
+        "6. Global: Transform the scene to a winter setting with snow-covered mountains and road.",
+        "7. Style: Apply a watercolor painting effect to the entire image."
+    ],
+    "58.jpeg": [
+        "1. Local: Replace the wooden door on the right side with a glass door.",
+        "2. Remove: Erase the small plants growing along the bottom of the buildings.",
+        "3. Add: Add a bicycle leaning against the wall on the left side of the street.",
+        "4. Texture: Change the texture of the buildings' walls to look like smooth, polished marble.",
+        "5. Background: Replace the background with a sunset sky.",
+        "6. Global: Transform the image to look like it is taken during winter with snow covering the street and the buildings.",
+        "7. Style: Change the style of the image to a watercolor painting."
+    ],
+    "59.jpeg": [
+        "1. Local Edit: Substitute the boat with a swan.",
+        "2. Remove Edit: Erase all the tall grass from the image.",
+        "3. Add Edit: Insert a fisherman wearing a hat sitting on the boat.",
+        "4. Texture Edit: Change the wooden texture of the boat to a metallic, silver appearance.",
+        "5. Background Edit: Replace the lake background with a bustling cityscape.",
+        "6. Global Edit: Transform the scene to appear during winter, with snow covering the boat and surroundings.",
+        "7. Style Edit: Render the entire image in a vintage sepia tone."
+    ],
+    "6.jpeg": [
+        "1. Local: Replace the monkey with a cat walking on the rope.",
+        "2. Remove: Erase the rope from the image.",
+        "3. Add: Insert a red balloon tied to the tree branch.",
+        "4. Texture: Paint the tree trunk with a bark texture resembling marble.",
+        "5. Background: Change the background to a dense jungle scene.",
+        "6. Global: Transform the scene to appear as if it is nighttime with a clear night sky and stars.",
+        "7. Style: Convert the image to a watercolor painting style."
+    ],
+    "60.jpeg": [
+        "1. Local: Replace the star at the top of the central dome with a sun emblem.",
+        "2. Remove: Erase the smaller green building to the right of the central dome.",
+        "3. Add: Insert a large hot air balloon floating above the city in the background.",
+        "4. Texture: Fill the domes with a golden texture, making them appear as if they are made of gold.",
+        "5. Background: Change the background to show a clear blue sky with a few white clouds.",
+        "6. Global: Transform the image to show the scene in the spring, with lush green trees and colorful blooming flowers around.",
+        "7. Style: Change the image to resemble a watercolor painting."
+    ],
+    "61.jpeg": [
+        "1. Local: Replace the backpacks with traditional woven baskets.",
+        "2. Remove: Erase the backpacks from both individuals, leaving their backs unburdened.",
+        "3. Add: Add a hat to the man, which could be a baseball cap or a fedora.",
+        "4. Texture: Change the orange floral shirt's texture to a red plaid pattern.",
+        "5. Background: Change the urban background to a lush park with trees and flowers.",
+        "6. Global: Transform the image to a winter scene with snow on the ground and the couple dressed in warm clothing.",
+        "7. Style: Apply a vintage black and white filter to the entire image."
+    ],
+    "62.jpeg": [
+        "1. Local: Change the skier's helmet to a red beanie.",
+        "2. Remove: Erase the ski poles from the skier's hands.",
+        "3. Add: Insert a snowboard under the skier's feet instead of skis.",
+        "4. Texture: Alter the skier's jacket to have a camouflage pattern.",
+        "5. Background: Replace the snowy mountain background with a lush green forest.",
+        "6. Global: Transform the image to appear as if it is in the middle of summer, with grass instead of snow.",
+        "7. Style: Change the image to have a vintage sepia tone style, giving it an old photograph look."
+    ],
+    "63.jpeg": [
+        "1. Local: Replace the snowboarder's helmet with a red beanie.",
+        "2. Remove: Erase the orange padding from around the pole.",
+        "3. Add: Insert a snowman in the foreground next to the snowboarder.",
+        "4. Texture: Change the texture of the snowboarder's jacket to a plaid pattern.",
+        "5. Background: Change the background to a beach with palm trees and a sunny sky.",
+        "6. Global: Transform the scene to a nighttime version with starry sky and illuminated slopes.",
+        "7. Style: Apply a watercolor painting effect to the entire image."
+    ],
+    "64.jpeg": [
+        "1. Local: Replace the steeple on the church with a modern glass dome.",
+        "2. Remove: Erase all the street signs from the image.",
+        "3. Add: Insert a hot air balloon in the sky.",
+        "4. Texture: Change the texture of the brick wall along the riverbank to a smooth, polished marble finish.",
+        "5. Background: Replace the entire sky with a sunset background, featuring vibrant orange and pink hues.",
+        "6. Global: Transform the season to winter, covering buildings and streets with snow and ice.",
+        "7. Style: Change the image to a black-and-white vintage photograph style."
+    ],
+    "65.jpeg": [
+        "1. Local: Replace the street lights along the building walls with antique lanterns.",
+        "2. Remove: Erase all items on the road.",
+        "3. Add: Insert a vintage street musician playing a violin on the right side of the street near the building.",
+        "4. Texture: Change the cobblestone street texture to a smooth, newly-paved surface.",
+        "5. Background: Change the background scene to overlook a serene coastal landscape with the sea visible in the distance.",
+        "6. Global: Transform the image to depict a bustling market scene, with stalls and people filling the street.",
+        "7. Style: Alter the entire image to resemble an impressionist painting with vibrant brushstrokes."
+    ],
+    "66.jpeg": [
+        "1. Local: Replace the sunflower in the foreground with a red rose while keeping its stem and leaves unchanged.",
+        "2. Remove: Erase the three tall trees in the background completely from the image.",
+        "3. Add: Add a purple butterfly on one of the sunflower stalks in the foreground.",
+        "4. Texture: Change the sunflower petals in the foreground to have a velvet texture while retaining their yellow color.",
+        "5. Background: Change the background to a snow-covered landscape with a clear sky.",
+        "6. Global: Transform the image to look like it is set during nighttime with the sunflowers illuminated by moonlight.",
+        "7. Style: Apply a watercolor painting style to the entire image to give it an artistic look."
+    ],
+    "67.jpeg": [
+        "1. Local: Replace the boat in the image with a vibrant red canoe.",
+        "2. Remove: Erase the small trees on the left side of the image.",
+        "3. Add: Add a person sitting at the end of the pier fishing.",
+        "4. Texture: Change the water texture to look like it is frozen.",
+        "5. Background: Change the background to show a city skyline instead of mountains.",
+        "6. Global: Transform the scene to a snowy winter landscape.",
+        "7. Style: Change the image style to look like an impressionist painting."
+    ],
+    "68.jpeg": [
+        "1. Local: Replace the pirate ship with a modern yacht.",
+        "2. Remove: Erase all the seagulls from the sky.",
+        "3. Add: Insert a lighthouse on the right edge of the image.",
+        "4. Texture: Change the water to look like it is frozen.",
+        "5. Background: Switch the background to a mountainous landscape during twilight.",
+        "6. Global: Transform the scene to look like it is during the winter season.",
+        "7. Style: Change the style of the image to a black-and-white vintage photograph."
+    ],
+    "69.jpeg": [
+        "1. Local: Change the largest cloud to a whale shape.",
+        "2. Remove: Remove the darkest cloud from the image.",
+        "3. Add: Add a sailboat in the distance on the ocean.",
+        "4. Texture: Paint the clouds with a rainbow color texture.",
+        "5. Background: Change the background to show a city skyline.",
+        "6. Global: Transform the scene to look like it's during sunset.",
+        "7. Style: Change the image to a watercolor painting style."
+    ],
+    "7.jpeg": [
+        "1. Local: Replace the bicycle with a motorcycle.",
+        "2. Remove: Remove the fence on the right side of the path.",
+        "3. Add: Add a cute brown dog walking beside the cyclist.",
+        "4. Texture: Change the color of the cyclist's jacket to bright red.",
+        "5. Background: Replace the autumn background with a beach scene.",
+        "6. Global: Show the scene during winter with snow covering the ground and trees.",
+        "7. Style: Transform the image to look like a watercolor painting."
+    ],
+    "70.jpeg": [
+        "1. Local: Replace the surfboard with a paddleboard.",
+        "2. Remove: Erase the surfer from the image.",
+        "3. Add: Insert a dolphin jumping out of the water next to the wave.",
+        "4. Texture: Change the color of the water to a clear turquoise.",
+        "5. Background: Replace the sunset with a starry night sky.",
+        "6. Global: Turn the scene into a snowy winter landscape with the wave as frozen ice.",
+        "7. Style: Transform the image into a watercolor painting style."
+    ],
+    "71.jpeg": [
+        "1. Local: Replace the surfboard with a skateboard.",
+        "2. Remove: Remove the surfer from the image.",
+        "3. Add: Add a dolphin jumping out of the water beside the surfer.",
+        "4. Texture: Change the water texture to look like lava.",
+        "5. Background: Change the background to a cityscape skyline.",
+        "6. Global: Transform the scene to a snowy winter setting, with the water turned to ice.",
+        "7. Style: Change the image style to resemble a vintage comic book."
+    ],
+    "72.jpeg": [
+        "1. Local: Replace the tiger with a lion, maintaining the same position in the water.",
+        "2. Remove: Erase all the leaves floating on the water's surface.",
+        "3. Add: Insert a tropical bird perched on a nearby branch above the tiger.",
+        "4. Texture: Change the tiger's fur texture to resemble a cheetah's spots, keeping the structure the same.",
+        "5. Background: Replace the current background with a snowy landscape.",
+        "6. Global: Transform the scene into a brightly lit summer day.",
+        "7. Style: Change the image to appear as a watercolor painting."
+    ],
+    "73.jpeg": [
+        "1. Local: Substitute one of the rocks with a small wooden cabin.",
+        "2. Remove: Erase the pile of debris in the bottom left corner.",
+        "3. Add: Insert a deer grazing in the middle of the meadow.",
+        "4. Texture: Change the color of the grass to a vibrant green.",
+        "5. Background: Change the background to a dense forest.",
+        "6. Global: Turn the entire scene into a spring setup, with blooming flowers and lush greenery.",
+        "7. Style: Transform the image into an impressionist painting style."
+    ],
+    "74.jpeg": [
+        "1. Local: Substitute one of the pink tulips with a blooming sunflower.",
+        "2. Remove: Erase all the pink tulips.",
+        "3. Add: Insert a butterfly resting on one of the tulips.",
+        "4. Texture: Change the color of the pink tulips to blue.",
+        "5. Background: Change the background to a sunny meadow.",
+        "6. Global: Turn the entire scene into an autumn setup, with orange and yellow tones.",
+        "7. Style: Transform the image into an impressionist painting style."
+    ],
+    "75.jpeg": [
+        "1. Local: Substitute one of the white tulips with a red rose.",
+        "2. Remove: Erase the tulip bud on the bottom left of the image.",
+        "3. Add: Insert a butterfly perched on one of the tulips.",
+        "4. Texture: Change the texture of the tulip petals to look like velvet.",
+        "5. Background: Change the background to a beach scene.",
+        "6. Global: Edit the scene to make it look as if it is sunset.",
+        "7. Style: Transform the image to look like a watercolor painting."
+    ],
+    "76.jpeg": [
+        "1. Local: Change the red umbrella to a blue one.",
+        "2. Remove: Erase the small structure visible in the background.",
+        "3. Add: Insert a small dog walking beside the woman.",
+        "4. Texture: Change the texture of the woman's skirt to a floral pattern.",
+        "5. Background: Change the background to a beach scene with the ocean and palm trees.",
+        "6. Global: Transform the scene to a snowy winter setting with falling snow and a white-dusted walkway.",
+        "7. Style: Convert the image to an impressionist painting style."
+    ],
+    "77.jpeg": [
+        "1. Local: Replace the small hut with a traditional Japanese tea house.",
+        "2. Remove: Erase the dense forest on the left side of the image.",
+        "3. Add: Insert a clear, flowing waterfall cascading down the terraces.",
+        "4. Texture: Change the green terraces to a vibrant array of wildflowers.",
+        "5. Background: Change the mountainous background to a beach with the ocean and palm trees.",
+        "6. Global: Transform the image to depict a snowy winter landscape, covering everything in snow.",
+        "7. Style: Convert the image to a watercolor painting style."
+    ],
+    "78.jpeg": [
+        "1. Local: Replace the moss-covered rock with a small wooden bridge crossing the stream.",
+        "2. Remove: Erase the rock on the right side of the image.",
+        "3. Add: Add a deer drinking water from the stream in the foreground.",
+        "4. Texture: Paint the trees and rocks with fall colors, changing the leaves to shades of orange, red, and yellow.",
+        "5. Background: Change the background to a snowy winter scene, with the surrounding area covered in snow.",
+        "6. Global: Transform the image to a sunny summer day, with bright sunlight illuminating the scene.",
+        "7. Style: Change the image to look like an impressionist painting, with visible brush strokes and vibrant color swirls."
+    ],
+    "79.jpeg": [
+        "1. Local: Replace the dragonfly in the image with a colorful butterfly.",
+        "2. Remove: Erase the unopened bud next to the blooming flower.",
+        "3. Add: Add a small frog sitting on one of the lily pads.",
+        "4. Texture: Change the lily pads to have a marble texture.",
+        "5. Background: Replace the current background with a sunset sky reflecting on the water.",
+        "6. Global: Transform the scene to a winter setting, with snow on the lily pads and a thin layer of ice on the water.",
+        "7. Style: Change the image to a watercolor painting style."
+    ],
+    "8.jpeg": [
+        "1. Local: Change the panda's fur color to brown instead of black and white.",
+        "2. Remove: Erase the log in front of the panda.",
+        "3. Add: Place a red balloon next to the panda.",
+        "4. Texture: Make the wooden logs look like they are made of gold.",
+        "5. Background: Change the background to a snowy mountain landscape.",
+        "6. Global: Transform the image to look like it is set in the autumn season with leaves falling.",
+        "7. Style: Apply a watercolor painting style to the entire image."
+    ],
+    "80.jpeg": [
+        "1. Local: Replace the bare tree with a blossoming cherry tree.",
+        "2. Remove: Erase the dog from the image.",
+        "3. Add: Insert a bicycle leaning against the tree.",
+        "4. Texture: Change the ground to be covered in a lush green grass instead of snow.",
+        "5. Background: Replace the clear sky with a vibrant sunset.",
+        "6. Global: Transform the image to depict a summer scene.",
+        "7. Style: Convert the image to a watercolor painting style."
+    ],
+    "81.jpeg": [
+        "1. Local: Change the meerkat's eyes to blue.",
+        "2. Remove: Remove the whiskers from the meerkat's face.",
+        "3. Add: Add a small blue hat on the meerkat's head.",
+        "4. Texture: Make the meerkat's fur appear to be made of gold.",
+        "5. Background: Change the background to a snowy winter landscape.",
+        "6. Global: Change the image to a night-time setting.",
+        "7. Style: Transform the image into a watercolor painting style."
+    ],
+    "9.jpeg": [
+        "1. Local: Swap the small boat in the foreground with a dolphin jumping out of the water.",
+        "2. Remove: Erase the rope from the sand in front of the boat.",
+        "3. Add: Insert a sandcastle on the beach next to the boat.",
+        "4. Texture: Change the boat's texture to look like it's made of marble.",
+        "5. Background: Replace the current sky and horizon with a bustling cityscape during sunset.",
+        "6. Global: Transform the image to appear as if it is winter, with snow covering the sand and a partially frozen sea.",
+        "7. Style: Apply a vintage sepia filter to the entire image, giving it an old-time feel."
+    ]
+}

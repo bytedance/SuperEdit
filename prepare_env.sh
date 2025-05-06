@@ -1,0 +1,1 @@
+pip3 install --no-cache-dir jwt diffusers datasets transformers tensorboard wandb huggingface_hub ftfy accelerate tensorboard --upgrade
