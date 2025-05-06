@@ -45,8 +45,9 @@ The dataset should be automatically downloaded when you run the training code. I
 
 # What's New in SuperEdit?
 ## Data is the Key to Instruction-based Image Editing
-Unlike existing efforts that attempt to (a) scale up edited images with noisy supervision;(b) introduce massive VLMs into editing model architecture;(c) perform additional pre-training tasks;(d) we focus on improving the effectiveness of supervision signals, which is the fundamental issue of image editing.
 ![](https://liming-ai.github.io/SuperEdit/static/images/motivation.png)
+Unlike existing efforts that attempt to (a) scale up edited images with noisy supervision;(b) introduce massive VLMs into editing model architecture;(c) perform additional pre-training tasks;(d) we focus on improving the effectiveness of supervision signals, which is the fundamental issue of image editing.
+
 
 ## Timesteps Makes the Unified Rectification Guideline
 ![](https://liming-ai.github.io/SuperEdit/static/images/guideline.png)
