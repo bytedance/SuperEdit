@@ -65,7 +65,7 @@ We find that different timesteps play distinct roles in image generation for tex
 Compared with existing methods, our SuperEdit achieves better editing results with less training data and model sizes, both in Real-Edit Benchmark with GPT-4o (Table 1) and human evaluation (Figure 7).
 
 # License
-This project is licensed under LICENSE-CC-BY-NC. See the `LICENSE-CC-BY-NC` flie for details.
+This project is licensed under LICENSE-Apache. See the `LICENSE-Apache` flie for details.
 
 # Citation
 If you find SuperEdit useful for your research and applications, feel free to give us a star ⭐ or cite us using:
