@@ -20,7 +20,7 @@
   </a>
 </p>
 
-We are extremely delighted to release SuperEdit. SuperEdit achieves state-of-the-art image editing performance by improving the supervision quality. Our method does not require extra VLM modules or pre-training tasks used in previous work, offering a more direct and efficient way to provide better supervision signals, and providing a novel, simple, and effective solution for instruction-based image editing. Please refer to [Project Website](https://liming-ai.github.io/SuperEdit/) for a quick review.
+We are extremely delighted to release SuperEdit. SuperEdit achieves state-of-the-art image editing performance by improving the supervision quality. Our method does not require extra VLM modules or pre-training tasks used in previous work, offering a more direct and efficient way to provide better supervision signals, and providing a novel, simple, and effective solution for instruction-based image editing. Refer to [Project Website](https://liming-ai.github.io/SuperEdit/) for a quick review.
 
 # Getting started
 1. Prepare environment
