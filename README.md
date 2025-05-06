@@ -48,9 +48,9 @@ The dataset should be automatically downloaded when you run the training code. I
 Unlike existing efforts that attempt to (a) scale up edited images with noisy supervision;(b) introduce massive VLMs into editing model architecture;(c) perform additional pre-training tasks;(d) we focus on improving the effectiveness of supervision signals, which is the fundamental issue of image editing.
 ![](https://liming-ai.github.io/SuperEdit/static/images/motivation.png)
 
-## Timesteps Matters in Denoising Process
-We find that different timesteps play distinct roles in image generation for text-to-image diffusion models, regardless of the editing instructions. Specifically, diffusion models focus on (a) global layout in the early stages, (b) local object attributes in the mid stages, (c) image details in the late stages, and the (c) image style across all stages of sampling. This finding inspires us to guide VLMs based on these four generation attributes, establishing a unified rectification method for various editing instructions.
+## Timesteps Makes the Unified Rectification Guideline
 ![](https://liming-ai.github.io/SuperEdit/static/images/guideline.png)
+We find that different timesteps play distinct roles in image generation for text-to-image diffusion models, regardless of the editing instructions. Specifically, diffusion models focus on (a) global layout in the early stages, (b) local object attributes in the mid stages, (c) image details in the late stages, and the (c) image style across all stages of sampling. This finding inspires us to guide VLMs based on these four generation attributes, establishing a unified rectification method for various editing instructions.
 
 ## Editing Instruction Rectification & Training Pipeline
 ![](https://liming-ai.github.io/SuperEdit/static/images/rectification.png)
