@@ -1,9 +1,9 @@
-export MODEL_NAME="stable-diffusion-v1-5/stable-diffusion-v1-5"
 # export MODEL_NAME="timbrooks/instruct-pix2pix"
-# export MODEL_NAME="work_dirs/pretrain_weights/InstructDiffusion_diffusers"
+# export MODEL_NAME="stable-diffusion-v1-5/stable-diffusion-v1-5"
+export MODEL_NAME="limingcv/InstructDiffusion_diffusers"
 
-export DATASET_ID="multi-datasets"
-export OUTPUT_DIR="work_dirs/ip2p/sd15/train_unet1e-4_4w_512x512_iter6k_bs512-1x8x64_bf16_triplet-loss_weight-1.0-margin-5e-4-start-2k"
+export DATASET_ID="limingcv/SuperEdit-40K"
+export OUTPUT_DIR="work_dirs/ip2p/sd15/ft-InstructDiffusion_unet1e-4_4w_512x512_iter6k_bs512-1x8x64_bf16_triplet-loss_weight-1.0-margin-5e-4-start-2k"
 
 accelerate launch --config_file "superedit/instruct_pix2pix/config.yml" \
     --multi-gpu \

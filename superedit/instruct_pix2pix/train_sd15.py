@@ -713,50 +713,25 @@ def main():
     # In distributed training, the load_dataset function guarantees that only one local process can concurrently
     # download the dataset.
     if args.dataset_name is not None:
-        if args.dataset_name == 'multi-datasets':
-
-            instructp2p_dataset = load_from_disk('data/instructp2p-gpt4o-10k', keep_in_memory=args.keep_in_memory)
-            magicbrush_dataset = load_from_disk('data/magic-brush', keep_in_memory=args.keep_in_memory)
-            seed_dataset = load_from_disk('data/SEED-Data-Mixture', keep_in_memory=args.keep_in_memory)
-
-            magicbrush_dataset = magicbrush_dataset['train'].train_test_split(test_size=5)
-            seed_dataset = seed_dataset.train_test_split(test_size=5)
-
-            train_dataset = concatenate_datasets([
-                instructp2p_dataset['train'],
-                magicbrush_dataset['train'],
-                seed_dataset['train'],
-            ])
-            val_dataset = concatenate_datasets([
-                instructp2p_dataset['val'].select(range(5)),
-                magicbrush_dataset['test'],
-                seed_dataset['test'],
-            ])
-
-            dataset = datasets.DatasetDict({
-                'train': train_dataset,
-                'val': val_dataset
-            })
+        # Downloading and loading a dataset from the hub.
+        if os.path.exists(args.dataset_name):
+            dataset = load_from_disk(args.dataset_name, keep_in_memory=args.keep_in_memory)
         else:
-            # Downloading and loading a dataset from the hub.
-            if os.path.exists(args.dataset_name):
-                dataset = load_from_disk(args.dataset_name, keep_in_memory=args.keep_in_memory)
-            else:
-                dataset = load_dataset(
-                    args.dataset_name,
-                    args.dataset_config_name,
-                    cache_dir=args.cache_dir,
-                )
+            dataset = load_dataset(
+                args.dataset_name,
+                args.dataset_config_name,
+                cache_dir=args.cache_dir,
+            )
 
-            if isinstance(dataset, DatasetDict):
-                if 'val' in dataset.keys():
-                    val_dataset = dataset['val']
-                else:
-                    dataset = dataset['train'].train_test_split(test_size=10)
-                    train_dataset, val_dataset = dataset['train'], dataset['test']
-            elif isinstance(dataset, Dataset):
-                dataset = dataset.train_test_split(test_size=10)
+        if isinstance(dataset, DatasetDict):
+            if 'val' in dataset.keys():
+                val_dataset = dataset['val']
+            else:
+                dataset = dataset['train'].train_test_split(test_size=10)
                 train_dataset, val_dataset = dataset['train'], dataset['test']
+        elif isinstance(dataset, Dataset):
+            dataset = dataset.train_test_split(test_size=10)
+            train_dataset, val_dataset = dataset['train'], dataset['test']
     else:
         data_files = {}
         if args.train_data_dir is not None:
