@@ -5,7 +5,7 @@
 </div>
 
 
-# SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing
+# [ICCV 2025] SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing
 <p align="center">
   <a href="https://liming-ai.github.io/SuperEdit">
     <img src="https://img.shields.io/badge/SuperEdit-Project Page-yellow">
